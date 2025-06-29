@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672776830370",
+    "project_id": "akilliy",
+    "storage_bucket": "akilliy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672776830370:android:9d28c4718583c4dbe906fb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_qryoklamasistemi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkDEmJoUKWWqfddxBkx_Hka3V-K2u2LjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

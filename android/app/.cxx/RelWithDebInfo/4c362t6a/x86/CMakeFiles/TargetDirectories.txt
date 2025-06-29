@@ -1,0 +1,2 @@
+C:/flutter_qryoklamasistemi-main/flutter_qryoklamasistemi-main/android/app/.cxx/RelWithDebInfo/4c362t6a/x86/CMakeFiles/edit_cache.dir
+C:/flutter_qryoklamasistemi-main/flutter_qryoklamasistemi-main/android/app/.cxx/RelWithDebInfo/4c362t6a/x86/CMakeFiles/rebuild_cache.dir
